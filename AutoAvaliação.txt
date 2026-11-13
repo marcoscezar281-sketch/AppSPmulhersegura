@@ -1,0 +1,14 @@
+Auto Avaliação do Marcos Cezar Fernandes Lima 
+
+Durante esse ano, aprendi várias coisas sobre programação. Conheci melhor a Programação Orientada a
+Objetos e entendi como funcionam as classes, os objetos, os atributos e os métodos.
+Também aprendi sobre herança, abstração, polimorfismo e encapsulamento.
+Além disso, tive contato com o Git e o GitHub, aprendendo alguns comandos e como funciona o versionamento de código.
+Também estudei como as classes podem se relacionar, por meio de associação, composição e agregação.
+No começo, alguns assuntos foram um pouco difíceis de entender, mas, com as aulas e as atividades, 
+fui aprendendo aos poucos e ganhando mais conhecimento sobre programação.
+
+
+
+Minha meta para 2027 é continuar aprendendo sobre programação, melhorar minhas habilidades e colocar em prática tudo o que aprendi. 
+Também quero aprender coisas novas, desenvolver projetos e me tornar cada vez melhor na área de tecnologia.
